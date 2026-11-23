@@ -15,7 +15,7 @@ on:
       DEVICE_TREE:
         description: 'Custom Recovery Tree'
         required: true
-        default: 'https://github.com/daizeuz-dred/twrp_device_realme_spaced_1.git'
+        default: 'https://github.com/sudoSomehow/twrp_device_realme_spaced_1.git'
       DEVICE_TREE_BRANCH:
         description: 'Custom Recovery Tree Branch'
         required: true
